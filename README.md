@@ -1,5 +1,7 @@
 Práctica: Actividad de Testing en Python
+
 Asignatura: Puesta en Producción Segura
+
 Autor: Miguel Ángel Maldonado Vela
 
 Programa que determina si una cadena proporcionada por el usuario es palíndroma. 
